@@ -1,7 +1,7 @@
 # Olá, me chamo Marco! 
 ## Bem vindo ao meu perfil GitHub 👋
-- 🔭 Atualmente estou procurando uma oportunidade
-- 🌱 Atualmente estou aprendendo Java/Web
+- 🔭 Procurando uma oportunidade
+- 🌱 Aprendendo Java/Web
 - 📫 Como entrar em contato comigo: www.linkedin.com/in/marco-antônio-dias-da-silva
 - ⚡ Curiosidade: gosto de jogos e esportes!
 
@@ -15,7 +15,7 @@
 </div>
 
 <div>
+</a>
 <a href="https://github.com/UMarcoSilva">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UMarcoSilva&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=UMarcoSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UMarcoSilva&layout=compact&langs_count=7&theme=dracula"/><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=UMarcoSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
