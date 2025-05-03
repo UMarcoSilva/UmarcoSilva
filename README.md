@@ -2,7 +2,6 @@
 ## Bem vindo ao meu perfil GitHub 👋
 - 🔭 Procurando uma oportunidade
 - 🌱 Aprendendo Java/Web
-- 📫 Como entrar em contato comigo: www.linkedin.com/in/marco-antônio-dias-da-silva
 - ⚡ Curiosidade: gosto de jogos e esportes!
 
 ## Ferramentas e Tecnologias
