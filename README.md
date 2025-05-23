@@ -1,8 +1,8 @@
 # Olá, me chamo Marco! 
 ## Bem vindo ao meu perfil GitHub 👋
-- 🔭 Procurando uma oportunidade  
-- 🌱 Aprendendo Java/Web  
-- ⚡ Curiosidade: gosto de jogos e esportes!
+- 🔭 Fique à vontade para trocar ideias! 
+- 🌱 Desenvolvedor Java/Web
+- ⚡ Gosto de jogos e esportes!
 
 ## Ferramentas e Tecnologias  
 <div>
